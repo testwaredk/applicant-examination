@@ -1,5 +1,3 @@
-# application-examination
-
 # number-system
 
 Dette repository benyttes som entry kriterie for at komme i betragtning til jobsamtale hos Testware.
