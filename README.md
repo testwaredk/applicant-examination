@@ -68,4 +68,6 @@ Ansøger for 3 timer til løsning af opgaven
 # Opgave 3 - SOLID Refactoring
 
 Omskriv dette projekt så det følger SOLID principperne.
+Kommenter koden og forklar hvorfor at det lige netop her er nødvendigt at omskrive koden.
+
 
