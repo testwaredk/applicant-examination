@@ -33,7 +33,7 @@ TC	Input 		From 	To 	Expected
 
 ## Varighed
 
-Ansøger får 8 timer til løsning af opgaven.
+Ansøger får 6 timer til løsning af opgaven.
 
 
 # Opgave 2 - Page Object Model og Selenium
@@ -54,5 +54,18 @@ TC	Input									Expected output
 ------------------------------------------------------------------------------------------------
 ```
 
+Det forventes, at Page Object Model er benyttet under implementering.
+
+Det forventes at selenium benyttes. 
+
+Der ses positivt på at koden i øvrigt er hensigtsmæssigt opdelt i klare ansvarsområder.
+
+## Varighed
+
+Ansøger for 3 timer til løsning af opgaven
+
 
 # Opgave 3 - SOLID Refactoring
+
+Omskriv dette projekt så det følger SOLID principperne.
+
