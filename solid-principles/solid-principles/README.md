@@ -66,6 +66,11 @@ Omskriv TextFileManageren så den kan håndtere både read/write file og only re
 > object-oriented design, similar to the High Cohesion Principle of GRASP.[3]
 
 
+Director klassen implementer ILead interfacet uagtet at director ikke arbejder med nogen programmeringsopgaver, men han 
+tildeler opgaver og uddeler opgaver. Det er derfor et brud på ISP princippet at implementere ILead på Director klassen.
+
+Omskriv klasserne så de følger ISP.
+
 
 
 # Opgave 3.5 - Dependency inversion principle
