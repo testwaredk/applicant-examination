@@ -94,3 +94,5 @@ Omskriv klasserne så de følger ISP.
 > design principle also leads to the following dependency inversion coding pattern.
 
 
+Implementer skellettet til en logger som sender exception stacktrace til REST API. 
+Følg DIP.
