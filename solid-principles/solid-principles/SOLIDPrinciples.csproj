@@ -7,8 +7,8 @@
     <ProjectGuid>{77ECEC2B-13C2-45B4-ADAE-5F9733FA3C7C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>solid_principles</RootNamespace>
-    <AssemblyName>solid-principles</AssemblyName>
+    <RootNamespace>SOLIDPrinciples</RootNamespace>
+    <AssemblyName>SOLIDPrinciples</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DIP\DataExporter.cs" />
+    <Compile Include="DIP\DBLogger.cs" />
     <Compile Include="DIP\ExceptionLogger.cs" />
     <Compile Include="DIP\FileLogger.cs" />
     <Compile Include="ISP\Director.cs" />

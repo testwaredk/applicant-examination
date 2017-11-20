@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net.Mail;
 using System.Text;
 
-namespace solid_principles.SRP
+namespace SOLIDPrinciples.SRP
 {
     public class UserRegistration
     {

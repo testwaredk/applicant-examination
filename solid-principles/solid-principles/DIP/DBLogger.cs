@@ -5,11 +5,11 @@ using System.Text;
 
 namespace SOLIDPrinciples.DIP
 {
-    public class FileLogger
+    public class DbLogger
     {
-        public void LogMessage(string aStackTrace)
+        public void LogMessage(string aMessage)
         {
-            //code to log stack trace into a file.  
+            //Code to write message in database.  
         }
-    }  
+    } 
 }

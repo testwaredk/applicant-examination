@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solid-principles", "solid-principles\solid-principles.csproj", "{77ECEC2B-13C2-45B4-ADAE-5F9733FA3C7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrinciples", "solid-principles\SOLIDPrinciples.csproj", "{77ECEC2B-13C2-45B4-ADAE-5F9733FA3C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

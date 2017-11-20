@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace solid_principles.SRP
+namespace SOLIDPrinciples.SRP
 {
     public class ValidationException : Exception
     {
