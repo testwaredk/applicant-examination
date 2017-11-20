@@ -93,3 +93,4 @@ Omskriv klasserne så de følger ISP.
 > When the discovered abstract interaction schema(s) between two modules is/are generic and generalization makes sense, this 
 > design principle also leads to the following dependency inversion coding pattern.
 
+

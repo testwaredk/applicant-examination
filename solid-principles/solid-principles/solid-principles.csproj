@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DIP\ExceptionLogger.cs" />
+    <Compile Include="DIP\FileLogger.cs" />
     <Compile Include="ISP\Director.cs" />
     <Compile Include="ISP\ILead.cs" />
     <Compile Include="ISP\TeamLead.cs" />

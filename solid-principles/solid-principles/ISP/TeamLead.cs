@@ -19,5 +19,6 @@ namespace solid_principles.ISP
         {
             //Code to implement perform assigned task.  
         }
+
     }  
 }
